@@ -1,0 +1,36 @@
+{
+  "name": "gulproject",
+  "version": "1.0.0",
+  "description": "\"# gulpproject\"",
+  "main": "index.js",
+  "dependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "babel-preset-es2015": "^6.24.1",
+    "browser-sync": "^2.26.5",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^6.1.0",
+    "gulp-sass": "^4.0.2",
+    "webpack-stream": "^5.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artmxra7/gulpproject.git"
+  },
+  "keywords": [
+    "gulp",
+    "project",
+    "Erwin",
+    "Rahayu"
+  ],
+  "author": "Erwin Rahayu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artmxra7/gulpproject/issues"
+  },
+  "homepage": "https://github.com/artmxra7/gulpproject#readme"
+}
